@@ -24,5 +24,3 @@ Welcome to the **Calculator** project! This is a modern, user-friendly calculato
 1. **Clone or Download** the repository to your local machine.
 2. Open the `index.html` file in your preferred browser.
 3. Start calculating!
-
-## 📂 Folder Structure:
