@@ -15,6 +15,10 @@ Welcome to the **Calculator** project! This is a modern, user-friendly calculato
 3. **Calculate**: Press the `=` button to get your result.
 4. **Clear or Undo**: Use the `⌫` button to delete the last character or the `C` button to clear the entire input.
 
+## 🌐 Live Demo:
+You can try the live version of the calculator by visiting the following link:
+[**Calculator Demo**](https://thecrowcreature.github.io/calculator/)
+
 ## 🔧 Technologies Used:
 - **HTML**: Structure of the calculator and its interface.
 - **CSS**: Stylish design, layout, and responsive styling for an optimal user experience.
@@ -24,3 +28,5 @@ Welcome to the **Calculator** project! This is a modern, user-friendly calculato
 1. **Clone or Download** the repository to your local machine.
 2. Open the `index.html` file in your preferred browser.
 3. Start calculating!
+
+## 📂 Folder Structure:
